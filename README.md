@@ -10,6 +10,7 @@
 | **Basic Tools** |
 | [vim](https://vimsheet.com/)| A Great Vim Cheat Sheet |
 | [tmux](https://tmuxcheatsheet.com/)| Tmux Cheat Sheet & Quick Reference |
+| [netcat](sans/netcat.pdf)| NetCat Cheat Sheet |
 |  |  |
 | **Resources** |
 | [static-binaries](https://github.com/andrew-d/static-binaries) | Various *nix tools built as statically-linked binaries  |
