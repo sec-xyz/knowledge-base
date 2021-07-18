@@ -21,7 +21,7 @@
 | Author | Name | Description |
 | ------ | ---- | ----------- |
 | Ashley Taylor | [bit & bytes](https://web.stanford.edu/class/cs101/bits-bytes.html) | CS101 - Introduction to Computing Principles: Bits and Bytes |
-| ippsec | [tmux](https://www.youtube.com/watch?v=Lqehvpe_djs) | Introduction to tmux video
+| ippsec | [tmux](https://www.youtube.com/watch?v=Lqehvpe_djs) | Introduction to tmux video |
 |  |  |
 
 ## Tools & Resources
@@ -36,11 +36,14 @@ Name | Description
 | [static-binaries](https://github.com/andrew-d/static-binaries) | Various *nix tools built as statically-linked binaries  |
 |  |  |
 
-## HowTo's
-Name | Description
----- | ----
+## Examples & HowTo's
+| Name | Description |
+| ---- | ---- |
+| **Basic Tools** |
+| [tcpdump](https://danielmiessler.com/study/tcpdump/) | A tcpdump Tutorial with Examples — 50 Ways to Isolate Traffic |
+|  |  |
 | **Shell's** |
-[socat](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/#method-2-using-socat) | Upgrading a shell to a fully interactive TTY
+| [socat](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/#method-2-using-socat) | Upgrading a shell to a fully interactive TTY |
 |  |  |
 
 
