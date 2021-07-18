@@ -11,8 +11,11 @@
 | [vim](https://vimsheet.com/)| A Great Vim Cheat Sheet |
 | [tmux](https://tmuxcheatsheet.com/)| Tmux Cheat Sheet & Quick Reference |
 |  |  |
-| **Security Tools** |
+| **Resources** |
+| [static-binaries](https://github.com/andrew-d/static-binaries) | Various *nix tools built as statically-linked binaries  |
 |  |  |
+| **Security Tools** |
+|  |  |https://github.com/andrew-d/static-binaries
 |  |  |
 | **HTB academy** |
 | [cheatsheet-77](htb-academy/cheatsheet-77.md) | HTB Academy - Getting started |
