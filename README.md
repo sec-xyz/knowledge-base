@@ -18,9 +18,10 @@
 |  |  |
 
 ## Introduction's
-Author | Name | Description
----- | ---- | ----
-ippsec | [tmux](https://www.youtube.com/watch?v=Lqehvpe_djs) | Introduction to tmux video
+| Author | Name | Description |
+| ------ | ---- | ----------- |
+| Ashley Taylor | [bit & bytes](https://web.stanford.edu/class/cs101/bits-bytes.html) | CS101 - Introduction to Computing Principles: Bits and Bytes |
+| ippsec | [tmux](https://www.youtube.com/watch?v=Lqehvpe_djs) | Introduction to tmux video
 |  |  |
 
 ## Tools & Resources
