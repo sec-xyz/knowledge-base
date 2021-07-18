@@ -30,6 +30,7 @@ Name | Description
 | **Cryptography** |
 | [CyberChef](https://gchq.github.io/CyberChef/)| The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis |
 | [CrackStation](https://crackstation.net/) | Free Password Hash Cracker |
+| [hashcat](https://hashcat.net/hashcat/) | Advanced Password Recovery |
 |  |  |
 | **Other** |
 | [static-binaries](https://github.com/andrew-d/static-binaries) | Various *nix tools built as statically-linked binaries  |
