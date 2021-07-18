@@ -2,19 +2,21 @@
 
 ## Cheat Sheet's
 
-### Basic Tools
-Name | Description
----- | ----
-[vim](https://vimsheet.com/)| A Great Vim Cheat Sheet
-[tmux](https://tmuxcheatsheet.com/)| Tmux Cheat Sheet & Quick Reference
-
-### Security Tools
 
 
-### HTB academy
-Name | Description
----- | ----
-[cheatsheet-77](htb-academy/cheatsheet-77.md) | Upgrading a shell to a fully interactive TTY
+
+| Name | Description |
+| ---- | ----------- |
+| **Basic Tools** |
+| [vim](https://vimsheet.com/)| A Great Vim Cheat Sheet |
+| [tmux](https://tmuxcheatsheet.com/)| Tmux Cheat Sheet & Quick Reference |
+|  |  |
+| **Security Tools** |
+|  |  |
+|  |  |
+| **HTB academy** |
+| [cheatsheet-77](htb-academy/cheatsheet-77.md) | HTB Academy - Getting started |
+|  |  |
 
 ## Introduction's
 Author | Name | Description
