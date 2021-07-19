@@ -10,6 +10,9 @@
 | [netcat](sans/netcat.pdf)| NetCat Cheat Sheet |
 | [tcpdump](packetlife/tcpdump.pdf)| Tcpdump Cheat Sheet |
 |  |  |
+| **Exploits** |
+| [exploitdb](https://www.exploit-db.com/) | Exploit Database - Exploits for Penetration Testers, Researchers, and Ethical Hackers |
+|  |  |
 | **Cryptography** |
 | [password crackers](https://www.unix-ninja.com/p/A_cheat-sheet_for_password_crackers)| A cheat-sheet for password crackers |
 |  |  |
