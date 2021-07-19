@@ -13,7 +13,7 @@
 | **Cryptography** |
 | [password crackers](https://www.unix-ninja.com/p/A_cheat-sheet_for_password_crackers)| A cheat-sheet for password crackers |
 |  |  |
-| **Web Security** |
+| **PortSwigger academy** |
 | [sql-injection](https://portswigger.net/web-security/sql-injection/cheat-sheet) | SQL injection cheat sheet |
 |  |  |
 | **HTB academy** |
