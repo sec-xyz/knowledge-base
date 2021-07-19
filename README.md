@@ -12,7 +12,9 @@
 |  |  |
 | **Cryptography** |
 | [password crackers](https://www.unix-ninja.com/p/A_cheat-sheet_for_password_crackers)| A cheat-sheet for password crackers |
-| []()|  |
+|  |  |
+| **Web Security** |
+| [sql-injection](https://portswigger.net/web-security/sql-injection/cheat-sheet) | SQL injection cheat sheet |
 |  |  |
 | **HTB academy** |
 | [cheatsheet-77](htb-academy/cheatsheet-77.md) | HTB Academy - Getting started |
