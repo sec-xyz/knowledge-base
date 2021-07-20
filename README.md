@@ -37,6 +37,8 @@
 Name | Description
 ---- | ----
 | **Operating Systems**|
+| [jq](https://github.com/stedolan/jq) | Command-line JSON processor |
+| [bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings |
 | [command-not-found](https://command-not-found.com/) | Install any command on any operating system |
 | | |
 | **Cryptography** |
