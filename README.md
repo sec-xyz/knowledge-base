@@ -36,6 +36,9 @@
 ## Tools & Resources
 Name | Description
 ---- | ----
+| **Operating Systems**|
+| [command-not-found](https://command-not-found.com/) | Install any command on any operating system |
+| | |
 | **Cryptography** |
 | [CyberChef](https://gchq.github.io/CyberChef/)| The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis |
 | [Ciphey](https://github.com/Ciphey/Ciphey) | Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes  |
