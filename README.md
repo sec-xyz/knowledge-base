@@ -42,6 +42,7 @@ Name | Description
 | [CrackStation](https://crackstation.net/) | Free Password Hash Cracker |
 | [John the Ripper](https://github.com/openwall/john) | John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs |
 | [hashcat](https://hashcat.net/hashcat/) | Advanced Password Recovery |
+| [hash-identifier](https://tools.kali.org/password-attacks/hash-identifier) | Software to identify the different types of hashes used to encrypt data and especially passwords |
 | [Hash Analyzer](https://www.tunnelsup.com/hash-analyzer/) | Tool to identify hash types |
 |  |  |
 | **Privilege Escalation** |
