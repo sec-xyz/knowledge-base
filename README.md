@@ -47,6 +47,9 @@ Name | Description
 | **Privilege Escalation** |
 | [GTFOBins](https://gtfobins.github.io/) | GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems |
 |  |  |
+| **SecLists** |
+| [SecLists](https://github.com/danielmiessler/SecLists) | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.  |
+|  |  |
 | **Payloads** |
 | [XSS Payloads](http://www.xss-payloads.com/) | The wonderland of JavaScript unexpected usages, and more |
 |  |  |
