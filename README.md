@@ -13,6 +13,10 @@
 | **Exploits** |
 | [exploitdb](https://www.exploit-db.com/) | Exploit Database - Exploits for Penetration Testers, Researchers, and Ethical Hackers |
 |  |  |
+| **Reverse Shells** |
+| [swisskyrepo](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)| Reverse Shell Cheat Sheet |
+| [pentestmonkey](https://web.archive.org/web/20200901140719/http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)| Reverse Shell Cheat Sheet |
+| | |
 | **Cryptography** |
 | [password crackers](https://www.unix-ninja.com/p/A_cheat-sheet_for_password_crackers)| A cheat-sheet for password crackers |
 |  |  |
