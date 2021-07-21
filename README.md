@@ -73,8 +73,10 @@ Name | Description
 | [XSS Payloads](http://www.xss-payloads.com/) | The wonderland of JavaScript unexpected usages, and more |
 | [msfvenom payloads](https://www.offensive-security.com/metasploit-unleashed/binary-payloads/)| Binary Payloads - Metasploit Unleashed |
 |  |  |
-| **Privilege Escalation** |
-| [GTFOBins](https://gtfobins.github.io/) | GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems |
+| **HTTP clients** |
+|  [curl](https://curl.se/)| command line tool and library for transferring data with URLs |
+|  [Wget](https://www.gnu.org/software/wget/)| GNU Wget is a free software package for retrieving files using HTTP, HTTPS, FTP and FTPS, the most widely used Internet protocols |
+| [Invoke-WebRequest](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-webrequest?view=powershell-7.1)| Microsoft.PowerShell.Utility - Gets content from a web page on the internet |
 |  |  |
 | **Other** |
 | [pyWhat](https://github.com/bee-san/pywhat) | Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! |
