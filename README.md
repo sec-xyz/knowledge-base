@@ -62,6 +62,7 @@ Name | Description
 | [msfvenom](https://www.offensive-security.com/metasploit-unleashed/msfvenom/)| MSFvenom - Metasploit Unleashed |
 | [evil-winrm](https://github.com/Hackplayers/evil-winrm)| The ultimate WinRM shell for hacking/pentesting  |
 | [socat binary](https://github.com/andrew-d/static-binaries/blob/master/binaries/linux/x86_64/socat?raw=true)| socat static compiled binary |
+| [revshells](https://www.revshells.com/)| Reverse Shell Generator |
 |  |  |
 | **Privilege Escalation** |
 | [GTFOBins](https://gtfobins.github.io/) | GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems |
