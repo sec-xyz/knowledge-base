@@ -28,6 +28,7 @@
 |  |  |
 | **HTB academy** |
 | [cheatsheet-77](htb-academy/cheatsheet-77.md) | HTB Academy - Getting started |
+| [cheatsheet-35](htb-academy/cheatsheet-35.md) | HTB Academy - Web Requests |
 |  |  |
 
 ## Introduction's
