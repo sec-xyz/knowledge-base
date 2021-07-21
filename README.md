@@ -90,7 +90,8 @@ Name | Description
 | [tcpdump](https://danielmiessler.com/study/tcpdump/) | A tcpdump Tutorial with Examples — 50 Ways to Isolate Traffic |
 |  |  |
 | **Shell's** |
-| [socat](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/#method-2-using-socat) | Upgrading a shell to a fully interactive TTY |
+| [TryHackMe - intro to shells](https://tryhackme.com/room/introtoshells)| What the Shell? An introduction to sending and receiving (reverse/bind) shells when exploiting target machines |
+| [upgrading shells](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/#method-2-using-socat) | Upgrading a shell to a fully interactive TTY |
 |  |  |
 
 
