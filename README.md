@@ -58,7 +58,8 @@ Name | Description
 | [GnuPG Handbook](https://www.gnupg.org/gph/en/manual/x56.html) | The GNU Privacy Handbook |
 |  |  |
 | **Shells** |
-| [msfvenom](https://www.offensive-security.com/metasploit-unleashed/msfvenom/)| MSFvenom - Metasploit Unleashed|
+| [msfvenom](https://www.offensive-security.com/metasploit-unleashed/msfvenom/)| MSFvenom - Metasploit Unleashed |
+| [evil-winrm](https://github.com/Hackplayers/evil-winrm)| The ultimate WinRM shell for hacking/pentesting  |
 |  |  |
 | **Privilege Escalation** |
 | [GTFOBins](https://gtfobins.github.io/) | GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems |
