@@ -44,11 +44,13 @@
 |  [parrotsec VM](https://www.parrotsec.org/download/)| Parrot OS, the flagship product of Parrot Security is a GNU/Linux distribution based on Debian and designed with Security and Privacy in mind |
 |  |  |
 
-## Introduction's
+## Introduction's and manuals
 | Author | Name | Description |
 | ------ | ---- | ----------- |
 | Ashley Taylor | [bit & bytes](https://web.stanford.edu/class/cs101/bits-bytes.html) | CS101 - Introduction to Computing Principles: Bits and Bytes |
 | ippsec | [tmux](https://www.youtube.com/watch?v=Lqehvpe_djs) | Introduction to tmux video |
+| Simon Bennetts | [ZAP in Ten](https://www.alldaydevops.com/zap-in-ten) | ZAP in Ten is a series of short form videos; where each video highlights a specific feature or resource for ZAP |
+| OWASP | [ZAP User Guide](https://www.zaproxy.org/docs/desktop/ui/) | OWASP ZAP Desktop User Guide |
 |  |  |
 
 ## Tools & Resources
