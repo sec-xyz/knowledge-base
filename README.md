@@ -50,6 +50,7 @@ Name | Description
 | [kali hash-identifier](https://tools.kali.org/password-attacks/hash-identifier) | Software to identify the different types of hashes used to encrypt data and especially passwords |
 | [hash_identifier](https://hashes.com/en/tools/hash_identifier) | Identify and detect unknown hashes using this tool. This page will tell you what type of hash a given string is. If you want to attempt to Decrypt them, click this link instead. [Decrypt Hashes](https://hashes.com/en/decrypt/hash/) |
 | [Hash Analyzer](https://www.tunnelsup.com/hash-analyzer/) | Tool to identify hash types |
+| [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) | RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data |
 |  |  |
 | **Privilege Escalation** |
 | [GTFOBins](https://gtfobins.github.io/) | GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems |
