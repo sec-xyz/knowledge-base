@@ -57,6 +57,9 @@ Name | Description
 | [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) | RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data |
 | [GnuPG Handbook](https://www.gnupg.org/gph/en/manual/x56.html) | The GNU Privacy Handbook |
 |  |  |
+| **Shells** |
+| [msfvenom](https://www.offensive-security.com/metasploit-unleashed/msfvenom/)| MSFvenom - Metasploit Unleashed|
+|  |  |
 | **Privilege Escalation** |
 | [GTFOBins](https://gtfobins.github.io/) | GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems |
 |  |  |
@@ -65,6 +68,7 @@ Name | Description
 |  |  |
 | **Payloads** |
 | [XSS Payloads](http://www.xss-payloads.com/) | The wonderland of JavaScript unexpected usages, and more |
+| [msfvenom payloads](https://www.offensive-security.com/metasploit-unleashed/binary-payloads/)| Binary Payloads - Metasploit Unleashed |
 |  |  |
 | **Privilege Escalation** |
 | [GTFOBins](https://gtfobins.github.io/) | GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems |
