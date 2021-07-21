@@ -58,8 +58,10 @@ Name | Description
 | [GnuPG Handbook](https://www.gnupg.org/gph/en/manual/x56.html) | The GNU Privacy Handbook |
 |  |  |
 | **Shells** |
+| [rlwrap](https://github.com/hanslub42/rlwrap) | A readline wrapper |
 | [msfvenom](https://www.offensive-security.com/metasploit-unleashed/msfvenom/)| MSFvenom - Metasploit Unleashed |
 | [evil-winrm](https://github.com/Hackplayers/evil-winrm)| The ultimate WinRM shell for hacking/pentesting  |
+| [socat binary](https://github.com/andrew-d/static-binaries/blob/master/binaries/linux/x86_64/socat?raw=true)| socat static compiled binary |
 |  |  |
 | **Privilege Escalation** |
 | [GTFOBins](https://gtfobins.github.io/) | GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems |
@@ -76,7 +78,6 @@ Name | Description
 |  |  |
 | **Other** |
 | [pyWhat](https://github.com/bee-san/pywhat) | Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! |
-| [rlwrap](https://github.com/hanslub42/rlwrap) | A readline wrapper  |
 | [static-binaries](https://github.com/andrew-d/static-binaries) | Various *nix tools built as statically-linked binaries  |
 |  |  |
 
