@@ -31,6 +31,18 @@
 | [cheatsheet-35](htb-academy/cheatsheet-35.md) | HTB Academy - Web Requests |
 | [cheatsheet-54](htb-academy/cheatsheet-54.md) | HTB Academy - Attacking Web Applications with Ffuf |
 |  |  |
+| **Add-ons & Extentions** |
+| [FoxyProxy](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)| FoxyProxy is an advanced proxy management tool that completely replaces Firefox's limited proxying capabilities |
+| [Wappalyzer](https://www.wappalyzer.com/apps/)| Wappalyzer is a browser extension that uncovers the technologies used on websites.  |
+| [HUNT](https://github.com/bugcrowd/HUNT)| HUNT Suite is a collection of Burp Suite Pro/Free and OWASP ZAP extensions |
+| [PwnFox](https://github.com/yeswehack/PwnFox)| PwnFox is a Firefox/Burp extension that provide usefull tools for your security audit |
+| [YesWeBurp](https://github.com/yeswehack/YesWeBurp)| YesWeBurp is an extension for BurpSuite allowing you to access all your https://yeswehack.com/ bug bounty programs directly inside Burp |
+|  |  |
+| **Pwning boxes**
+|  [pwn-machine](https://github.com/yeswehack/pwn-machine)| PwnMachine is a self hosting solution based on docker aiming to provide an easy to use pwning station for bug hunters.  |
+|  [parrotsec container](https://hub.docker.com/r/parrotsec/security)| Official Parrot Security container image pre-loaded with pentest tools |
+|  [parrotsec VM](https://www.parrotsec.org/download/)| Parrot OS, the flagship product of Parrot Security is a GNU/Linux distribution based on Debian and designed with Security and Privacy in mind |
+|  |  |
 
 ## Introduction's
 | Author | Name | Description |
