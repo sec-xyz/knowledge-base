@@ -29,6 +29,7 @@
 | **HTB academy** |
 | [cheatsheet-77](htb-academy/cheatsheet-77.md) | HTB Academy - Getting started |
 | [cheatsheet-35](htb-academy/cheatsheet-35.md) | HTB Academy - Web Requests |
+| [cheatsheet-54](htb-academy/cheatsheet-54.md) | HTB Academy - Attacking Web Applications with Ffuf |
 |  |  |
 
 ## Introduction's
