@@ -95,6 +95,9 @@ Name | Description
 | [YesWeBurp](https://github.com/yeswehack/YesWeBurp)| YesWeBurp is an extension for BurpSuite allowing you to access all your https://yeswehack.com/ bug bounty programs directly inside Burp |
 | [zap-extensions](https://github.com/zaproxy/zap-extensions)| OWASP ZAP Add-ons |
 |  |  |
+| **Deliberately vulnerable Applications** |
+|  [Juice Shop](https://owasp.org/www-project-juice-shop/)|  Juice Shop encompasses vulnerabilities from the entire OWASP Top Ten along with many other security flaws found in real-world applications |
+|  |  |
 | **Pwning boxes**
 |  [pwn-machine](https://github.com/yeswehack/pwn-machine)| PwnMachine is a self hosting solution based on docker aiming to provide an easy to use pwning station for bug hunters.  |
 |  [parrotsec container](https://hub.docker.com/r/parrotsec/security)| Official Parrot Security container image pre-loaded with pentest tools |
@@ -107,6 +110,7 @@ Name | Description
 | [pyWhat](https://github.com/bee-san/pywhat) | Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! |
 | [static-binaries](https://github.com/andrew-d/static-binaries) | Various *nix tools built as statically-linked binaries  |
 |  |  |
+
 
 ## Examples & HowTo's
 | Name | Description |
