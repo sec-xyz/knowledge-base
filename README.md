@@ -82,6 +82,10 @@ Name | Description
 |  [curl](https://curl.se/)| command line tool and library for transferring data with URLs |
 |  [Wget](https://www.gnu.org/software/wget/)| GNU Wget is a free software package for retrieving files using HTTP, HTTPS, FTP and FTPS, the most widely used Internet protocols |
 | [Invoke-WebRequest](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-webrequest?view=powershell-7.1)| Microsoft.PowerShell.Utility - Gets content from a web page on the internet |
+| **APIs** |
+|  [Hoppscotch](https://github.com/hoppscotch/hoppscotch)| Open source API development ecosystem |
+|  [Beeceptor](https://beeceptor.com/)| Rest API mocking and intercepting in seconds |
+|  [Httpreq.com](https://httpreq.com/)| A free service that allows you to record http requests. This can be useful to debug webhooks, chat-bots or other head-less interactions. |
 |  |  |
 | **Add-ons & Extentions** |
 | [FoxyProxy](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)| FoxyProxy is an advanced proxy management tool that completely replaces Firefox's limited proxying capabilities |
