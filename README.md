@@ -31,18 +31,6 @@
 | [cheatsheet-35](htb-academy/cheatsheet-35.md) | HTB Academy - Web Requests |
 | [cheatsheet-54](htb-academy/cheatsheet-54.md) | HTB Academy - Attacking Web Applications with Ffuf |
 |  |  |
-| **Add-ons & Extentions** |
-| [FoxyProxy](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)| FoxyProxy is an advanced proxy management tool that completely replaces Firefox's limited proxying capabilities |
-| [Wappalyzer](https://www.wappalyzer.com/apps/)| Wappalyzer is a browser extension that uncovers the technologies used on websites.  |
-| [HUNT](https://github.com/bugcrowd/HUNT)| HUNT Suite is a collection of Burp Suite Pro/Free and OWASP ZAP extensions |
-| [PwnFox](https://github.com/yeswehack/PwnFox)| PwnFox is a Firefox/Burp extension that provide usefull tools for your security audit |
-| [YesWeBurp](https://github.com/yeswehack/YesWeBurp)| YesWeBurp is an extension for BurpSuite allowing you to access all your https://yeswehack.com/ bug bounty programs directly inside Burp |
-|  |  |
-| **Pwning boxes**
-|  [pwn-machine](https://github.com/yeswehack/pwn-machine)| PwnMachine is a self hosting solution based on docker aiming to provide an easy to use pwning station for bug hunters.  |
-|  [parrotsec container](https://hub.docker.com/r/parrotsec/security)| Official Parrot Security container image pre-loaded with pentest tools |
-|  [parrotsec VM](https://www.parrotsec.org/download/)| Parrot OS, the flagship product of Parrot Security is a GNU/Linux distribution based on Debian and designed with Security and Privacy in mind |
-|  |  |
 
 ## Introduction's and manuals
 | Author | Name | Description |
@@ -94,6 +82,19 @@ Name | Description
 |  [curl](https://curl.se/)| command line tool and library for transferring data with URLs |
 |  [Wget](https://www.gnu.org/software/wget/)| GNU Wget is a free software package for retrieving files using HTTP, HTTPS, FTP and FTPS, the most widely used Internet protocols |
 | [Invoke-WebRequest](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-webrequest?view=powershell-7.1)| Microsoft.PowerShell.Utility - Gets content from a web page on the internet |
+|  |  |
+| **Add-ons & Extentions** |
+| [FoxyProxy](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)| FoxyProxy is an advanced proxy management tool that completely replaces Firefox's limited proxying capabilities |
+| [Wappalyzer](https://www.wappalyzer.com/apps/)| Wappalyzer is a browser extension that uncovers the technologies used on websites.  |
+| [HUNT](https://github.com/bugcrowd/HUNT)| HUNT Suite is a collection of Burp Suite Pro/Free and OWASP ZAP extensions |
+| [PwnFox](https://github.com/yeswehack/PwnFox)| PwnFox is a Firefox/Burp extension that provide usefull tools for your security audit |
+| [YesWeBurp](https://github.com/yeswehack/YesWeBurp)| YesWeBurp is an extension for BurpSuite allowing you to access all your https://yeswehack.com/ bug bounty programs directly inside Burp |
+| [zap-extensions](https://github.com/zaproxy/zap-extensions)| OWASP ZAP Add-ons |
+|  |  |
+| **Pwning boxes**
+|  [pwn-machine](https://github.com/yeswehack/pwn-machine)| PwnMachine is a self hosting solution based on docker aiming to provide an easy to use pwning station for bug hunters.  |
+|  [parrotsec container](https://hub.docker.com/r/parrotsec/security)| Official Parrot Security container image pre-loaded with pentest tools |
+|  [parrotsec VM](https://www.parrotsec.org/download/)| Parrot OS, the flagship product of Parrot Security is a GNU/Linux distribution based on Debian and designed with Security and Privacy in mind |
 |  |  |
 | **Other** |
 | [pyWhat](https://github.com/bee-san/pywhat) | Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! |
