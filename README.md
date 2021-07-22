@@ -96,6 +96,9 @@ Name | Description
 |  [parrotsec container](https://hub.docker.com/r/parrotsec/security)| Official Parrot Security container image pre-loaded with pentest tools |
 |  [parrotsec VM](https://www.parrotsec.org/download/)| Parrot OS, the flagship product of Parrot Security is a GNU/Linux distribution based on Debian and designed with Security and Privacy in mind |
 |  |  |
+| **File sharing** |
+| [Lufi](https://upload.disroot.org/)| Lufi is a free (as in free speech) file hosting software |
+|  |  |
 | **Other** |
 | [pyWhat](https://github.com/bee-san/pywhat) | Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! |
 | [static-binaries](https://github.com/andrew-d/static-binaries) | Various *nix tools built as statically-linked binaries  |
