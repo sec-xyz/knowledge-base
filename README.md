@@ -97,6 +97,7 @@ Name | Description
 |  |  |
 | **Deliberately vulnerable Applications** |
 |  [Juice Shop](https://owasp.org/www-project-juice-shop/)|  Juice Shop encompasses vulnerabilities from the entire OWASP Top Ten along with many other security flaws found in real-world applications |
+| [DVWA](https://dvwa.co.uk/)| Damn Vulnerable Web App (DVWA) is a PHP/MySQL web application that is damn vulnerable |
 |  |  |
 | **Pwning boxes**
 |  [pwn-machine](https://github.com/yeswehack/pwn-machine)| PwnMachine is a self hosting solution based on docker aiming to provide an easy to use pwning station for bug hunters.  |
