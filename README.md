@@ -109,7 +109,8 @@ Name | Description
 |  |  |
 | **Other** |
 | [pyWhat](https://github.com/bee-san/pywhat) | Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! |
-| [static-binaries](https://github.com/andrew-d/static-binaries) | Various *nix tools built as statically-linked binaries  |
+| [static-binaries](https://github.com/andrew-d/static-binaries) | Various *nix tools built as statically-linked binaries |
+| [regexr](https://regexr.com/)| RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp) |
 |  |  |
 
 
