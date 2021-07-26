@@ -20,6 +20,9 @@
 | **Cryptography** |
 | [password crackers](https://www.unix-ninja.com/p/A_cheat-sheet_for_password_crackers)| A cheat-sheet for password crackers |
 |  |  |
+| **Windows domains** |
+| [PowerView](htb-academy/cheatsheet-77.md) | HarmJ0y - PowerView tricks  |
+|  |  |
 | **OWASP** |
 | [cheatsheet series](https://cheatsheetseries.owasp.org/index.html) | OWASP Cheat Sheet Series |
 |  |  |
