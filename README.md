@@ -131,6 +131,7 @@ Name | Description
 | **Identity 101** |
 |  |  |
 | [OAuth vs OpenID Connect vs SAML](https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/) | What’s the Difference Between OAuth, OpenID Connect, and SAML? |
+| [SAML vs OAuth](https://www.okta.com/identity-101/saml-vs-oauth/)| SAML vs. OAuth: Comparison and Differences |
 | **Networking 101** |
 |  [TLS Handshake](https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/)| What happens in a TLS handshake? |
 | [High Performance Browser Networking](https://hpbn.co/)| High Performance Browser Networking: What every web developer should know about networking and web performance (by Ilya Grigorik) |
