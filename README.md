@@ -125,5 +125,14 @@ Name | Description
 | [upgrading shells](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/#method-2-using-socat) | Upgrading a shell to a fully interactive TTY |
 |  |  |
 
+## Concepts explanations
+| **Identity 101** |
+|  |  |
+| [OAuth vs OpenID Connect vs SAML](https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/) | What’s the Difference Between OAuth, OpenID Connect, and SAML? |
+| **Network** |
+|  [TLS Handshake](https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/)| What happens in a TLS handshake? |
+|  |  |
+
+
 
 
