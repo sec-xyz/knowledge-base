@@ -110,6 +110,14 @@ Name | Description
 | **File sharing** |
 | [Lufi](https://upload.disroot.org/)| Lufi is a free (as in free speech) file hosting software |
 |  |  |
+| **Ransomware** |
+| [Raccine](https://github.com/Neo23x0/Raccine)| A Simple Ransomware Vaccine |
+| [RansomWhere?](https://objective-see.com/products/ransomwhere.html)| RansomWhere? aims to protect your personal files, generically stopping ransomware in its tracks |
+|  |  |
+| **Penetration testing** |
+| [reconmap](https://github.com/reconmap/reconmap)| VAPT (vulnerability assessment and penetration testing) automation and reporting platform |
+| [assessment-mindset](https://github.com/dsopas/assessment-mindset)| Security Mindmap that could be useful for the infosec community when doing pentest, bug bounty or red-team assessments |
+|  |  |
 | **Other** |
 | [pyWhat](https://github.com/bee-san/pywhat) | Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! |
 | [static-binaries](https://github.com/andrew-d/static-binaries) | Various *nix tools built as statically-linked binaries |
