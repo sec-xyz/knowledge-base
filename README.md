@@ -42,6 +42,7 @@
 | ippsec | [tmux](https://www.youtube.com/watch?v=Lqehvpe_djs) | Introduction to tmux video |
 | Simon Bennetts | [ZAP in Ten](https://www.alldaydevops.com/zap-in-ten) | ZAP in Ten is a series of short form videos; where each video highlights a specific feature or resource for ZAP |
 | OWASP | [ZAP User Guide](https://www.zaproxy.org/docs/desktop/ui/) | OWASP ZAP Desktop User Guide |
+| [getting-started-socat](https://www.redhat.com/sysadmin/getting-started-socat) | Getting started with socat, a multipurpose relay tool for Linux |
 |  |  |
 
 ## Tools & Resources
