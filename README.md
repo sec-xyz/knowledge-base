@@ -151,8 +151,7 @@ Name | Description
 | [High Performance Browser Networking](https://hpbn.co/)| High Performance Browser Networking: What every web developer should know about networking and web performance (by Ilya Grigorik) |
 |  |  |
 | **Shells 101** |
-|  [ Web Shells 101 Using PHP](https://www.acunetix.com/blog/articles/web-shells-101-using-php-introduction-web-shells-part-2/)|  Web Shells 101 Using PHP (Web Shells Part 2)
- |
+|  [ Web Shells](https://www.acunetix.com/blog/articles/web-shells-101-using-php-introduction-web-shells-part-2/)| Web Shells 101 Using PHP |
 |  |  |
 
 
