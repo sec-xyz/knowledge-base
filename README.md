@@ -153,7 +153,9 @@ Name | Description
 | **Shells 101** |
 |  [ Web Shells](https://www.acunetix.com/blog/articles/web-shells-101-using-php-introduction-web-shells-part-2/)| Web Shells 101 Using PHP |
 |  |  |
-
+|**HTTP 101**|
+|  [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)| MDN WebDocs - A complete list of standard HTTP headers |
+|  |  |
 
 
 
