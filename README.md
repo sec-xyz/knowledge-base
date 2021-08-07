@@ -150,10 +150,10 @@ Name | Description
 |  [TLS Handshake](https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/)| What happens in a TLS handshake? |
 | [High Performance Browser Networking](https://hpbn.co/)| High Performance Browser Networking: What every web developer should know about networking and web performance (by Ilya Grigorik) |
 |  |  |
-| **Shell 101** |
+| **Bash 101** |
 |  [Explain Shell](https://explainshell.com/)| write down a command-line to see the help text that matches each argument. |
 |  |  |
-| **Web Shells 101** |
+| **Shells 101** |
 |  [Web Shells](https://www.acunetix.com/blog/articles/web-shells-101-using-php-introduction-web-shells-part-2/)| Web Shells 101 Using PHP |
 |  |  |
 |**HTTP 101**|
