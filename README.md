@@ -166,7 +166,8 @@ Name | Description
 | Name | Description |
 | ---- | ---- |
 |**Linux**|
-|  [Linux Journey](https://linuxjourney.com/)| Learn the ways of Linux-fu, for free. |
+| [Linux Journey](https://linuxjourney.com/)| Learn the ways of Linux-fu, for free. |
+| [metasploit-unleashed](https://www.offensive-security.com/metasploit-unleashed/) | Metasploit Unleashed – Free Ethical Hacking Course |
 |  |  |
 
 
