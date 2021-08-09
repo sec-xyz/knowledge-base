@@ -102,6 +102,7 @@ Name | Description
 |  |  |
 | **Deliberately vulnerable Applications** |
 |  [Juice Shop](https://owasp.org/www-project-juice-shop/)|  Juice Shop encompasses vulnerabilities from the entire OWASP Top Ten along with many other security flaws found in real-world applications |
+| [WebGoat](https://github.com/WebGoat/WebGoat) | WebGoat is a deliberately insecure application |
 | [DVWA](https://dvwa.co.uk/)| Damn Vulnerable Web App (DVWA) is a PHP/MySQL web application that is damn vulnerable |
 |  |  |
 | **Pwning boxes**
