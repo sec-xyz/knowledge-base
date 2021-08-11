@@ -35,6 +35,20 @@
 | [cheatsheet-54](htb-academy/cheatsheet-54.md) | HTB Academy - Attacking Web Applications with Ffuf |
 |  |  |
 
+
+## Checklists
+
+| Name | Description |
+| ---- | ----------- |
+| **Linux Privilege Escalation** |
+| Author | Name | Description |
+| ------ | ---- | ----------- |
+| netbiosX | [](https://github.com/netbiosX/Checklists/blob/master/Linux-Privilege-Escalation.md)| Linux Privilege Escalation  |
+| swisskyrepo | [](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md)| Linux - Privilege Escalation |
+| sushant747 | [](https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_-_linux.html)| Privilege Escalation |
+| payatu | [](https://payatu.com/guide-linux-privilege-escalation)| A guide to Linux Privilege Escalation |
+|  |  |
+
 ## Introduction's and manuals
 | Author | Name | Description |
 | ------ | ---- | ----------- |
