@@ -38,11 +38,9 @@
 
 ## Checklists
 
-| Name | Description |
-| ---- | ----------- |
 | **Linux Privilege Escalation** |
 | Author | Description |
-| ---- | ----------- |
+| ------ | ----------- |
 | [netbiosX](https://github.com/netbiosX/Checklists/blob/master/Linux-Privilege-Escalation.md)| Linux Privilege Escalation  |
 | [swisskyrepo](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md)| Linux - Privilege Escalation |
 | [sushant747](https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_-_linux.html)| Privilege Escalation |
@@ -174,6 +172,14 @@ Name | Description
 |  |  |
 |**HTTP 101**|
 |  [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)| MDN WebDocs - A complete list of standard HTTP headers |
+|  |  |
+
+## Notes taking
+| Name | Description |
+| ---- | ---- |
+| [GitBook](https://www.gitbook.com) | GitBook helps you publish beautiful docs for your users and centralize your teams' knowledge for advanced collaboration. |
+|  [CherryTree](https://www.giuspen.com/cherrytree) | A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single xml or sqlite file. |
+| [Notion](https://www.notion.so) | Notion is an application that provides components such as notes, databases, kanban boards, wikis, calendars and reminders. |
 |  |  |
 
 ## Learning
