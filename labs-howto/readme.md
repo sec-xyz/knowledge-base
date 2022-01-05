@@ -3,12 +3,14 @@
 ## Hypervisor options
 1. VirtualBox
 2. VMware
+3. Others
+   - KVM, Hyper-V, ...
 
-## Networking notes
-If your guest uses a bridged interface with host wifi card, it may not work.
-Solutions
-- choose NAT interface instead.
-- or use a LAN/USB card on the Host and keep bridge mode
+## Attack Box options
+1. Kali Linux
+2. Parrot OS
+3. Others
+
 
 ## Advanced scenarios
 To connect to HTB, TryHackMe, CTFs or training you can use a diferent setup.
@@ -17,7 +19,12 @@ To connect to HTB, TryHackMe, CTFs or training you can use a diferent setup.
 3. Create another VM (aka attack box) with [Parrot OS](https://www.parrotsec.org/) or [Kali Linux](https://www.kali.org/)
 4. Add one interface connected internal network (LAN)
 
+WAN - connected to outside world  
+LAN - connected internal network  
+Host only - interface connected with Host where VMWare and VirtualBox runs  
 
-WAN - connected to outside world
-LAN - connected internal network
-Host only - interface connected with Host where VMWare and VirtualBox runs
+## Networking notes
+If your guest uses a bridged interface with host wifi card, it may not work.
+Solutions
+- choose NAT interface instead.
+- or use a LAN/USB card on the Host and keep bridge mode
