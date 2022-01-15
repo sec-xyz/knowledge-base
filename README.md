@@ -34,6 +34,8 @@
 | [cheatsheet-35](htb-academy/cheatsheet-35.md) | HTB Academy - Web Requests |
 | [cheatsheet-54](htb-academy/cheatsheet-54.md) | HTB Academy - Attacking Web Applications with Ffuf |
 |  |  |
+| **Tools** |
+| [sqlmap](https://thedarksource.com/sqlmap-cheat-sheet/) | SQLMap Cheat Sheet: The Lazy Man’s Guide |
 
 
 ## Checklists
