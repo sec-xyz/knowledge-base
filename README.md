@@ -139,7 +139,9 @@ Name | Description
 | [assessment-mindset](https://github.com/dsopas/assessment-mindset)| Security Mindmap that could be useful for the infosec community when doing pentest, bug bounty or red-team assessments |
 | [ired.team](https://www.ired.team/)| Red Teaming Tactics and Techniques |
 | [Kali Pentesting Tools](https://tools.kali.org/)| Kali Linux contains a large amount of penetration testing tools from various different niches of the security and forensics fields. |
-
+|  |  |
+| **WAFs** |
+| [wafw00f](https://github.com/EnableSecurity/wafw00f) | WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website. |
 |  |  |
 | **Other** |
 | [pyWhat](https://github.com/bee-san/pywhat) | Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! |
